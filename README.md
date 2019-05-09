@@ -3,13 +3,13 @@
 FangK J is a simple record tool for users to record bills, expenses and anything interest them.  It's maded by a totally new structural design.
 
 ## Previews
-![1.png](https://github.com/zun606hen/FangK-J/blob/master/1.png/w/200)
+![1.png](https://github.com/zun606hen/FangK-J/blob/master/1.png)
 
-![2.png](https://github.com/zun606hen/FangK-J/blob/master/2.png/w/200)
+![2.png](https://github.com/zun606hen/FangK-J/blob/master/2.png)
 
-![3.png](https://github.com/zun606hen/FangK-J/blob/master/3.png/w/200)
+![3.png](https://github.com/zun606hen/FangK-J/blob/master/3.png)
 
-![4.png](https://github.com/zun606hen/FangK-J/blob/master/4.png/w/200)
+![4.png](https://github.com/zun606hen/FangK-J/blob/master/4.png)
 
 ## Private
 
